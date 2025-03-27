@@ -53,7 +53,7 @@ BoW focuses on word count, while TF-IDF adjusts the importance of words based on
 ## Installation and usage
 
 1. Clone the repository
-  - `git clone [https://github.com/jahnavimehta/Spam-Ham-Classification-With-NLP.git](https://github.com/jahnavimehta/Spam-Ham-Classification-With-NLP.git)`
+  - `git clone https://github.com/jahnavimehta/Spam-Ham-Classification-With-NLP.git `
   - `cd  Spam-Ham-Classification-With-NLP`
 2. Create a virtual environment and install dependencies.
   - `python -m venv venv`
